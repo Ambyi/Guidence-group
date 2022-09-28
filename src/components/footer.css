@@ -1,0 +1,40 @@
+.footer-main{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-color: rgb(56, 55, 55);
+    height: 300px;
+}
+.footer-col{
+   display: flex;
+   flex-direction: column;
+   justify-content: flex-start;
+  margin-top: 4rem;
+   width: 300px;
+   color: #fff;
+}
+
+.footer-head{
+    font-size: 18px;
+    font-family:Poppins,sans-serif;
+    text-transform: uppercase;
+    color: #fff;
+    margin-left: 2rem;
+}
+.footer-lists{
+    display: flex;
+    flex-direction: row;
+    
+    font-size: 14px;
+    color: gray;
+    
+}
+.footer-icons{
+    font-size: 20px;
+    color: dodgerblue;
+    
+}
+.left-side{
+    
+    margin-right: 10px;
+}

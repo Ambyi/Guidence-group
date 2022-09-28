@@ -1,0 +1,36 @@
+.header-main{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+ align-items: center;
+    height: 50px;
+    padding: 5px;
+    background-color: #3b2e4d;
+    color: #ffffff;
+}
+.left-side{
+    font-family: Nunito,sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+    margin-left: 2rem;
+    line-height: 2em;
+    letter-spacing: .025em;
+    align-items: center;
+
+}
+.left-button{
+    margin-right: 2rem;
+    width: 238px;
+    height: 38px;
+    background-color: #F15B2A;
+    color: #FFFFFF;
+    font-family: Poppins,sans-serif;
+    font-size: 14px;
+    line-height: 1.5em;
+    letter-spacing: .125em;
+    font-weight: 500;
+    text-transform: uppercase;
+    align-items: center;
+    border: none;
+    border-radius: 100px;
+}
